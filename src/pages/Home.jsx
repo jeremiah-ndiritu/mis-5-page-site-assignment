@@ -12,7 +12,7 @@ export default function Home() {
 
       <div className="grid md:grid-cols-3 gap-6">
         <div className="border p-4 rounded">
-          <img src="https://placehold.co/400x250" className="mb-3 rounded" />
+          <img src="https://placehold.co/400x250/png" className="mb-3 rounded" />
           <h3 className="font-semibold">
             What is Management Information Systems?
           </h3>
@@ -22,12 +22,12 @@ export default function Home() {
         </div>
 
         <div className="border p-4 rounded">
-          <img src="https://placehold.co/400x250" />
+          <img src="https://placehold.co/400x250/png" />
           <h3 className="font-semibold mt-3">How does cloud storage work?</h3>
         </div>
 
         <div className="border p-4 rounded">
-          <img src="https://placehold.co/400x250" />
+          <img src="https://placehold.co/400x250/png" />
           <h3 className="font-semibold mt-3">Benefits of data analytics?</h3>
         </div>
       </div>

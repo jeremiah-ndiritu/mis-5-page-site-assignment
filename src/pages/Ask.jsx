@@ -3,13 +3,13 @@ export default function Questions() {
     {
       id: 1,
       title: "What is a database?",
-      image: "https://placehold.co/500x300",
+      image: "https://placehold.co/500x300/png",
       desc: "Understanding structured data storage.",
     },
     {
       id: 2,
       title: "What is cloud computing?",
-      image: "https://placehold.co/500x300",
+      image: "https://placehold.co/500x300/png",
       desc: "How data is stored and accessed over the internet.",
     },
   ];

@@ -9,7 +9,7 @@ export default function MediaAnswers() {
         <div className="border p-4 rounded">
           <h3 className="font-semibold mb-2">Example Image Explanation</h3>
 
-          <img src="https://placehold.co/500x300" className="rounded" />
+          <img src="https://placehold.co/500x300/png" className="rounded" />
         </div>
 
         <div className="border p-4 rounded">
